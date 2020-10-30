@@ -9,8 +9,9 @@ lerna-debug.log*
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
-# Compiled binary addons (https://nodejs.org/api/addons.html)
-build/Release
+# Build folders
+dist/
+build/
 
 # Dependency directories
 node_modules/
